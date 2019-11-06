@@ -1,6 +1,4 @@
 #Andrew Gasiorowski
-#CIS 411
-#Program 3
 
 import re as _re
 import pandas as _pd
